@@ -7,7 +7,7 @@ const divTodoList = document.querySelector('.todo-list');
 const txtInput = document.querySelector('.new-todo');
 const btnBorrar = document.querySelector('.clear-completed');
 const ulFiltros = document.querySelector('.filters');
-const anchorFiltros = document.querySelectorAll('.filtro')
+const anchorFiltros = document.querySelectorAll('.filtro');
 
 
 
